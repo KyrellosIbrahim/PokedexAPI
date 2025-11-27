@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PokedexAPI</string>
+    <string name="pokemon_sprite">Pokemon Sprite</string>
+    <string name="pokemon_watchlist">Pokemon Watchlist</string>
+    <string name="enter_pokemon_name_or_id">Enter Pokemon name or ID</string>
+    <string name="add">Add</string>
+    <string name="clear">Clear</string>
+    <string name="pokemon_profile">Pokemon Profile:</string>
+    <string name="clear_all">Clear All</string>
+    <string name="watchlist">Watchlist:</string>
 </resources>
